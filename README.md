@@ -12,7 +12,7 @@ Views, Likes, Dislikes, Comment Count
 Title Length, Time of Publishing, Day of Week
 
 Like-to-View Ratios, Trending Days, etc.
--<a href="https://www.kaggle.com/datasets/thedevastator/youtube-trending-videos-dataset">Excel_Dataset</a>
+- <a href="https://www.kaggle.com/datasets/thedevastator/youtube-trending-videos-dataset">Excel_Dataset</a>
 
 ## 📈 Questions (KPIs) Explored
 Which channels have the highest audience engagement?
